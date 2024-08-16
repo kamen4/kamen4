@@ -39,6 +39,8 @@
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kamen4&show_icons=true&locale=en&layout=compact)
+
 ## 🤝 Let's Connect
 
 I'm always open to collaboration and discussions. Feel free to reach out!
